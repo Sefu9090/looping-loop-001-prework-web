@@ -2,5 +2,8 @@ def looping
   puts "hello"
 end
 
-#call your method here
 looping
+
+loop do 
+  puts "hello"
+end
